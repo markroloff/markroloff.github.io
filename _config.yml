@@ -23,10 +23,11 @@ github_username: markroloff
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-remote-theme
 
 show_excerpts: true
 
